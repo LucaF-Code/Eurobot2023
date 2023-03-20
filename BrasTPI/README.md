@@ -1,5 +1,5 @@
 # Servo Dynamixel / Automate Beckhoff
 
-Voici l'utilisation d'un servomoteur Dynamixel avec un iPC Beckhoff en utilisant un code Python
+Voici un exemple d'utilisation d'un servomoteur Dynamixel avec un iPC Beckhoff en utilisant PyADS 
 
 
